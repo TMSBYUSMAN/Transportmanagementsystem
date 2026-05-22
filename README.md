@@ -3,7 +3,8 @@
 A comprehensive, dynamic web-based solution designed to streamline and automate university transportation logistics. The system handles transport schedules, bus route optimization, fuel tracking, fee management, student registrations, and complaint ticketing.
 
 ## 📸 Project Preview
-> *[Dashboard screenshot will be displayed here once added]*
+> <img width="1914" height="846" alt="Screenshot 2026-05-21 230931" src="https://github.com/user-attachments/assets/8fc57593-ecda-41b2-b531-64c09948409b" />
+
 
 ## 🚀 Key Features
 * **Multi-Role Authentication:** Secure login and session management for both System Administrators and Students.
