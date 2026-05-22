@@ -24,12 +24,12 @@ A comprehensive, dynamic web-based solution designed to streamline and automate 
 To evaluate the application without registering a new account, use these pre-configured user credentials:
 
 ### 1. Admin Portal
-* **Email / Username:** `admin@uostms.com`
-* **Password:** `admin123`
+* **Email / Username:** `admin`
+* **Password:** `password123`
 
 ### 2. Student Portal
-* **Email / Username:** `student@uostms.com`
-* **Password:** `student123`
+* **Email / Username:** `musman.amz987@gmail.com`
+* **Password:** `Usmanzia#321`
 
 ## 📂 Project Architecture & File Structure
 The project repository follows a structured layout, separating functional modules:
