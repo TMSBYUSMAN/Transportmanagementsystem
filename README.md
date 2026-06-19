@@ -30,6 +30,7 @@ To evaluate the application without registering a new account, use these pre-con
 ### 2. Student Portal
 * **Email / Username:** `musman.amz987@gmail.com`
 * **Password:** `Usmanzia#321`
+* Use user email and password for login
 
 ## 📂 Project Architecture & File Structure
 The project repository follows a structured layout, separating functional modules:
